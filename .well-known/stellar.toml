@@ -117,4 +117,24 @@ status="live"
 desc="In the context of Forex trading, “XPB” usually refers to the currency pair that represents the price of the British Pound (GBP) against the Euro (EUR). However, it is important to note that “XPB” can also refer to specific trading instruments or products, depending on the broker or trading platform. We trade Stellar as the XPB/XLM currency pair on the Stellar platform."
 display_decimals=7
 
+ش[[CURRENCIES]]
+code="XLMG"
+issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
+is_asset_anchored = false
+display_decimals=7
+name="Stellar Gold"
+desc="Join XLMG and XLMS staking program today stellargold.site and receive upto 22% APY staking rewards. Rewards are being paid weekly. More info in telegram group @officialXLMG"
+conditions=" Total supply One hundred billion XLMG and most of it is already in circulation. Even in 2023 team is working on bringing new products for stellar gold. As of december team released staking program for all stellar gold holders to receive XLMS as reward on weekly basis by just following simple steps."
+image="https://stellargold.site/images/QmYhUdK4tsdANFauidZsrEh2sxN4NM2SdnEToXnnCooc2R.png"
+
+
+[[CURRENCIES]]
+code="XLMS"
+issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
+is_asset_anchored = false
+display_decimals=7
+name="Stellar Silver"
+desc="Stellar Silver is New token created for liquidity pool and to reward XLMG holders with rewards on weekly basis and upto 0.42% weekly APY based on your holdings."
+conditions=" Total One hundred Billion XLMS are in existence. And they will be used as rewards for XLMG holders, creating liquidity and as collateral for XLMG"
+image="https://stellargold.site/images/QmNXAHBwGoTBUXq6ysQY8LeExkm84qUKUSyHeL6B2wSEQE.png"
 
