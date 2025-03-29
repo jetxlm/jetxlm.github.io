@@ -143,7 +143,7 @@ display_decimals=7
 name="Stellar Gold"
 desc="Join XLMG and XLMS staking program today stellargold.site and receive upto 22% APY staking rewards. Rewards are being paid weekly. More info in telegram group @officialXLMG"
 conditions=" Total supply One hundred billion XLMG and most of it is already in circulation. Even in 2023 team is working on bringing new products for stellar gold. As of december team released staking program for all stellar gold holders to receive XLMS as reward on weekly basis by just following simple steps."
-image="https://jetxlm.github.io/images/XLMG.jpeg"
+image="https://jetxlm.github.io/images/XLMG.png"
 
 
 [[CURRENCIES]]
@@ -154,5 +154,5 @@ display_decimals=7
 name="Stellar Silver"
 desc="Stellar Silver is New token created for liquidity pool and to reward XLMG holders with rewards on weekly basis and upto 0.42% weekly APY based on your holdings."
 conditions=" Total One hundred Billion XLMS are in existence. And they will be used as rewards for XLMG holders, creating liquidity and as collateral for XLMG"
-image="https://jetxlm.github.io/images/XLMS.jpeg"
+image="https://jetxlm.github.io/images/XLMS.png"
 
