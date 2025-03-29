@@ -1,9 +1,28 @@
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+ACCOUNT= "GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
+
+[DOCUMENTATION]
+ORG_NAME="Jet Xlm"
+ORG_DBA="Jet Xlm DBA"
+ORG_PHYSICAL_ADDRESS="123 Sesame Street, New York, NY 12345, United States"
+ORG_URL="https://stellargold.site"
+ORG_LOGO="https://stellargold.site/images/lOgo-png.png"
+ORG_OFFICIAL_EMAIL="info@stellargold.site"
+ORG_SUPPORT_EMAIL="mail@stellargold.site"
+ORG_DESCRIPTION="Stellar Gold is an innovative digital asset designed to leverage the capabilities of the Stellar blockchain, a high-performance decentralized network known for its speed, scalability, and low transaction costs. Stellar Gold aims to bridge the gap between traditional finance and the digital economy by facilitating seamless cross-border transactions and enabling efficient asset transfers."
+
+
+[[PRINCIPALS]]
+name="Jane Jedidiah Johnson"
+email="info@stellargold.site"
+
 
 [[CURRENCIES]]
 code="XAUt"
 name="Tether Gold"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
-image="https://stellarhedgefunds.com/images/emc.png"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
+image="https://stellargold.site/images/XAUt.png"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 fixed_number=1000000000000000
@@ -16,28 +35,28 @@ display_decimals=7
 [[CURRENCIES]]
 code="XAG"
 name="SILVER"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
-image="https://stellarhedgefunds.com/images/millennium.png"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
+image="https://stellargold.site/images/XAG.png"
 is_asset_anchored=true
 anchor_asset_type="bond"
 fixed_number=1000000000000000
 anchor_asset="Hedge Fund"
 status="live"
-desc="XAG is the trading symbol for silver in the financial markets, particularly in the context of futures and spot trading. The code "XAG" is derived from the Latin word "argentum," which means silver. It is used in various trading platforms, exchanges, and financial instruments to represent the precious metal."
+desc="XAG is the trading symbol for silver in the financial markets, particularly in the context of futures and spot trading. The code XAG is derived from the Latin word argentum, which means silver. It is used in various trading platforms, exchanges, and financial instruments to represent the precious metal."
 display_decimals=7
 
 
 [[CURRENCIES]]
 code="XPD"
 name="PALLDIUM"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
-image="https://stellarhedgefunds.com/images/ziff.png"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
+image="https://stellargold.site/images/XPD.webp"
 is_asset_anchored=true
 anchor_asset_type="bond"
 fixed_number=1000000000000000
 anchor_asset="Hedge Fund"
 status="live"
-desc="XPD in the context of Forex (foreign exchange) refers to the trading of palladium, which is represented by the symbol "XPD." It is one of the precious metals traded in the Forex market, alongside others like gold (XAU) and silver (XAG). Palladium is a rare metal primarily used in automotive catalytic converters, electronics, and jewelry, making its price subject to various economic factors, including industrial demand and supply constraints."
+desc="XPD in the context of Forex (foreign exchange) refers to the trading of palladium, which is represented by the symbol XPD. It is one of the precious metals traded in the Forex market, alongside others like gold (XAU) and silver (XAG). Palladium is a rare metal primarily used in automotive catalytic converters, electronics, and jewelry, making its price subject to various economic factors, including industrial demand and supply constraints."
 display_decimals=7
 
 
@@ -45,14 +64,14 @@ display_decimals=7
 [[CURRENCIES]]
 code="XPT"
 name="PLATINUM"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
-image="https://stellarhedgefunds.com/images/tiger.png"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
+image="https://stellargold.site/images/XPT.jpg"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 fixed_number=1000000000000000
 anchor_asset="Hedge Fund"
 status="live"
-desc="In the context of Forex (foreign exchange), "XPT" refers to the currency code for platinum. It is part of the ISO 4217 standard, which assigns three-letter codes to currencies and precious metals. Platinum is a precious metal that is often traded as a commodity, similar to gold and silver, and its price can be influenced by various factors including supply and demand dynamics, industrial usage, and macroeconomic conditions."
+desc="In the context of Forex (foreign exchange), XPT refers to the currency code for platinum. It is part of the ISO 4217 standard, which assigns three-letter codes to currencies and precious metals. Platinum is a precious metal that is often traded as a commodity, similar to gold and silver, and its price can be influenced by various factors including supply and demand dynamics, industrial usage, and macroeconomic conditions."
 display_decimals=7
 
 
@@ -60,8 +79,8 @@ display_decimals=7
 [[CURRENCIES]]
 code="XCU"
 name="COPPER"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
-image="https://stellarhedgefunds.com/images/moore.png"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
+image="https://stellargold.site/images/XCU.jpg"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 fixed_number=1000000000000000
@@ -75,14 +94,14 @@ display_decimals=7
 [[CURRENCIES]]
 code="XZN"
 name="ZINC"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
-image="https://stellarhedgefunds.com/images/oaktree.png"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
+image="https://stellargold.site/images/XZN.jpg"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 fixed_number=1000000000000000
 anchor_asset="Hedge Fund"
 status="live"
-desc="In the context of Forex (foreign exchange) trading, "XZN" does not refer to a widely recognized currency pair or trading term. It is possible that "XZN" might be a typographical error or a misunderstanding of a more common currency code."
+desc="In the context of Forex (foreign exchange) trading, XZN does not refer to a widely recognized currency pair or trading term. It is possible that XZN might be a typographical error or a misunderstanding of a more common currency code."
 display_decimals=7
 
 
@@ -90,8 +109,8 @@ display_decimals=7
 [[CURRENCIES]]
 code="XNI"
 name="NICKEL"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
-image="https://stellarhedgefunds.com/images/bridgewater.png"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
+image="https://stellargold.site/images/XNI.jpg"
 is_asset_anchored=true
 anchor_asset_type="bond"
 anchor_asset="Hedge Fund"
@@ -106,8 +125,8 @@ display_decimals=7
 [[CURRENCIES]]
 code="XPB"
 name="LEAD"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
-image="https://stellarhedgefunds.com/images/rtec.png"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
+image="https://stellargold.site/images/XPB.jpg"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 anchor_asset="Hedge Fund"
@@ -117,24 +136,25 @@ status="live"
 desc="In the context of Forex trading, “XPB” usually refers to the currency pair that represents the price of the British Pound (GBP) against the Euro (EUR). However, it is important to note that “XPB” can also refer to specific trading instruments or products, depending on the broker or trading platform. We trade Stellar as the XPB/XLM currency pair on the Stellar platform."
 display_decimals=7
 
-ش[[CURRENCIES]]
+
+[[CURRENCIES]]
 code="XLMG"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
 is_asset_anchored = false
 display_decimals=7
 name="Stellar Gold"
 desc="Join XLMG and XLMS staking program today stellargold.site and receive upto 22% APY staking rewards. Rewards are being paid weekly. More info in telegram group @officialXLMG"
 conditions=" Total supply One hundred billion XLMG and most of it is already in circulation. Even in 2023 team is working on bringing new products for stellar gold. As of december team released staking program for all stellar gold holders to receive XLMS as reward on weekly basis by just following simple steps."
-image="https://stellargold.site/images/QmYhUdK4tsdANFauidZsrEh2sxN4NM2SdnEToXnnCooc2R.png"
+image="https://stellargold.site/images/XLMG.jpeg"
 
 
 [[CURRENCIES]]
 code="XLMS"
-issuer="GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
+issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
 is_asset_anchored = false
 display_decimals=7
 name="Stellar Silver"
 desc="Stellar Silver is New token created for liquidity pool and to reward XLMG holders with rewards on weekly basis and upto 0.42% weekly APY based on your holdings."
 conditions=" Total One hundred Billion XLMS are in existence. And they will be used as rewards for XLMG holders, creating liquidity and as collateral for XLMG"
-image="https://stellargold.site/images/QmNXAHBwGoTBUXq6ysQY8LeExkm84qUKUSyHeL6B2wSEQE.png"
+image="https://stellargold.site/images/XLMS.jpeg"
 
