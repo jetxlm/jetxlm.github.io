@@ -1,6 +1,6 @@
 VERSION="2.2.0"
 NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
-ACCOUNT= "GBHGCYHEDOK4HMJRMVHWGA2DCVNVAEKESGCYGSFX5GDSGBIAO4HQLFXK"
+ACCOUNT= "GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
 
 [DOCUMENTATION]
 ORG_NAME="Jet Xlm"
@@ -8,9 +8,8 @@ ORG_DBA="Jet Xlm DBA"
 ORG_PHYSICAL_ADDRESS="123 Sesame Street, New York, NY 12345, United States"
 ORG_URL="https://stellargold.site"
 ORG_LOGO="https://stellargold.site/images/lOgo-png.png"
-ORG_OFFICIAL_EMAIL="info@stellargold.site"
-ORG_SUPPORT_EMAIL="mail@stellargold.site"
-ORG_DESCRIPTION="Stellar Gold is an innovative digital asset designed to leverage the capabilities of the Stellar blockchain, a high-performance decentralized network known for its speed, scalability, and low transaction costs. Stellar Gold aims to bridge the gap between traditional finance and the digital economy by facilitating seamless cross-border transactions and enabling efficient asset transfers."
+ORG_OFFICIAL_EMAIL="jetxlm.com@gmail.com"
+ORG_DESCRIPTION="Jet Xlm is an innovative digital asset designed to leverage the capabilities of the Stellar blockchain, a high-performance decentralized network known for its speed, scalability, and low transaction costs. Stellar Gold aims to bridge the gap between traditional finance and the digital economy by facilitating seamless cross-border transactions and enabling efficient asset transfers."
 
 
 [[PRINCIPALS]]
@@ -22,7 +21,7 @@ email="info@stellargold.site"
 code="XAUt"
 name="Tether Gold"
 issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
-image="https://stellargold.site/images/XAUt.png"
+image="https://jetxlm.github.io/images/XAUt.png"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 fixed_number=1000000000000000
@@ -36,7 +35,7 @@ display_decimals=7
 code="XAG"
 name="SILVER"
 issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
-image="https://stellargold.site/images/XAG.png"
+image="https://jetxlm.github.io/images/XAG.png"
 is_asset_anchored=true
 anchor_asset_type="bond"
 fixed_number=1000000000000000
@@ -50,7 +49,7 @@ display_decimals=7
 code="XPD"
 name="PALLDIUM"
 issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
-image="https://stellargold.site/images/XPD.webp"
+image="https://jetxlm.github.io/images/XPD.webp"
 is_asset_anchored=true
 anchor_asset_type="bond"
 fixed_number=1000000000000000
@@ -65,7 +64,7 @@ display_decimals=7
 code="XPT"
 name="PLATINUM"
 issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
-image="https://stellargold.site/images/XPT.jpg"
+image="https://jetxlm.github.io/images/XPT.jpg"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 fixed_number=1000000000000000
@@ -80,7 +79,7 @@ display_decimals=7
 code="XCU"
 name="COPPER"
 issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
-image="https://stellargold.site/images/XCU.jpg"
+image="https://jetxlm.github.io/images/XCU.jpg"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 fixed_number=1000000000000000
@@ -95,7 +94,7 @@ display_decimals=7
 code="XZN"
 name="ZINC"
 issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
-image="https://stellargold.site/images/XZN.jpg"
+image="https://jetxlm.github.io/images/XZN.jpg"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 fixed_number=1000000000000000
@@ -110,7 +109,7 @@ display_decimals=7
 code="XNI"
 name="NICKEL"
 issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
-image="https://stellargold.site/images/XNI.jpg"
+image="https://jetxlm.github.io/images/XNI.jpg"
 is_asset_anchored=true
 anchor_asset_type="bond"
 anchor_asset="Hedge Fund"
@@ -126,7 +125,7 @@ display_decimals=7
 code="XPB"
 name="LEAD"
 issuer="GCV7RJOZOU2563SSWPOWN4CZ3OOOXH4U5NVTFC2YSBWWSBPL5ULYLISX"
-image="https://stellargold.site/images/XPB.jpg"
+image="https://jetxlm.github.io/images/XPB.jpg"
 is_asset_anchored=true
 anchor_asset_type="realestate"
 anchor_asset="Hedge Fund"
@@ -145,7 +144,7 @@ display_decimals=7
 name="Stellar Gold"
 desc="Join XLMG and XLMS staking program today stellargold.site and receive upto 22% APY staking rewards. Rewards are being paid weekly. More info in telegram group @officialXLMG"
 conditions=" Total supply One hundred billion XLMG and most of it is already in circulation. Even in 2023 team is working on bringing new products for stellar gold. As of december team released staking program for all stellar gold holders to receive XLMS as reward on weekly basis by just following simple steps."
-image="https://stellargold.site/images/XLMG.jpeg"
+image="https://jetxlm.github.io/images/XLMG.jpeg"
 
 
 [[CURRENCIES]]
@@ -156,5 +155,5 @@ display_decimals=7
 name="Stellar Silver"
 desc="Stellar Silver is New token created for liquidity pool and to reward XLMG holders with rewards on weekly basis and upto 0.42% weekly APY based on your holdings."
 conditions=" Total One hundred Billion XLMS are in existence. And they will be used as rewards for XLMG holders, creating liquidity and as collateral for XLMG"
-image="https://stellargold.site/images/XLMS.jpeg"
+image="https://jetxlm.github.io/images/XLMS.jpeg"
 
